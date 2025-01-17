@@ -28,3 +28,11 @@ Follow the steps below to clone and run the project on your local machine.
    ```bash
    git clone <repository_url>
    cd <repository_name>
+   python -m venv venv
+   venv\Scripts\activate
+   pip install -r requirements.txt
+   python manage.py runserver
+   http://127.0.0.1:8000/
+
+
+
