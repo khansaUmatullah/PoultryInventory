@@ -1,6 +1,6 @@
 # Full Stack Web Application with Django and DRF
 
-This is a full-stack web application built using Django, Django Rest Framework (DRF), and MySQL for backend development. The frontend can be integrated with Angular.
+This is a full-stack web application built using Django, Django Rest Framework (DRF), and MySQL for backend development. The frontend has been integrated with Django templates.
 
 ## Features
 - Full CRUD functionality for managing resources.
